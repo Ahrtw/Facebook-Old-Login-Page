@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+}
+
+.login_c {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 10px;
+  margin-left: 200px;
+}
+
+.content {
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #899ecb;
+}
+
+.loginbotton {
+  font-size: 90%;
+  color: white;
+  background-color: #6d8bc9;
+  padding: 2px 4px 2px;
+  border: 1px solid #335795;
+}
+
+.nav_c {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #3d62b3;
+  height: 90px;
+}
+
+.logo {
+  display: flex;
+  max-width: 100%;
+  width: 62px;
+  height: 62px;
+  margin-right: 300px;
+  margin-left: 150px;
+  margin-top: 10px;
+}
+
+label {
+  color: white;
+  font-size: 80%;
+}
+
+.caixa,
+.caixa2 {
+  border: 1px solid black;
+  margin-top: 3px;
+  height: 18px;
+}
+
+.p {
+  font-size: 90%;
+}
+
+div.left h1 {
+  line-height: 10px;
+}
+
+.icon,
+.icon2,
+.icon3 {
+  display: flex;
+  height: 50px;
+}
+
+div.icon img {
+  margin-right: 25px;
+}
+
+div.sigup h1,
+h3 {
+  line-height: 4px;
+}
+
+h4 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.conteudo {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.right {
+  margin-left: 0px;
+}
+
+.left {
+  margin-top: 50px;
+  margin-left: 150px;
+  margin-right: 200px;
+}
+.box {
+  margin: 5px;
+  height: 30px;
+  margin-left: 0px;
+}
+
+select {
+  height: 30px;
+  width: 70px;
+  margin: 0px;
+  border-radius: 0;
+}
+
+.why {
+  font-size: 13px;
+}
+
+.radio {
+  margin: 15px 10px;
+}
+
+p.signupbotton a {
+  display: inline-block;
+  background-color: green;
+  font-size: 20px;
+  padding: 10px 40px;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
